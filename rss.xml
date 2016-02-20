@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[simficient]]></title>
         <description><![CDATA[simficient]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/simficient/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 17:02:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 20 Feb 2016 17:07:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/simficient/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Unternehmen]]></title>
+            <description><![CDATA[<article><h1>Unternehmen</h1><p>simficient ist ein junges Unternehmen, welches sich vollständig auf die Automatisierung und Digitalisierung von Geschäftsprozessen spezialisiert hat. Workflows und digitale Akten (Cases) sind unser täglich Brot, welches wir nicht nur verkaufen, sondern welches auch bei uns auf den Tisch kommt. Zu unserem Erfahrungsschatz gehören u. a. Projekte zur Aufgaben- und Dokumentenlenkung, zum Beschwerdemanagement, zur Vertriebs- und Investitionsplanung, zur Personalplanung, zum Bewerbungsprozess und Personaleinstellung.</p></article>]]></description>
+            <link>https://thegrid.ai/simficient/unternehmen/index.html</link>
+            <guid isPermaLink="false">5c718f8a-d46b-48f8-9c9b-3343e29e0974</guid>
+            <pubDate>Sat, 20 Feb 2016 17:06:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Was tun wir für Sie?]]></title>
             <description><![CDATA[<article><h1>Was tun wir für Sie?</h1><h2>Prozesse digitalisieren</h2><p>Geben Sie uns eine kurze Beschreibung und Sie bekommen eine fachmännische Antwort innerhalb weniger Tage.</p></article>]]></description>
-            <link>undefinedwas-tun-wir-fur-sie/index.html</link>
+            <link>https://thegrid.ai/simficient/was-tun-wir-fur-sie/index.html</link>
             <guid isPermaLink="false">2d37e6f6-826a-4a8f-b576-cc50d43658cf</guid>
             <pubDate>Sat, 20 Feb 2016 17:02:44 GMT</pubDate>
         </item>
