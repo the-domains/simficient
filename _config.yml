@@ -1,0 +1,29 @@
+name: simficient
+favicon: null
+layout_spectrum: 0.6521856286562979
+typography_spectrum: 0.21427533286623657
+title: simficient
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.4263780147302896
+  lightness: 0.23465331690385938
+  saturation: 0.8720911156851798
+  rhythmicContrast: 0.6850601241458207
+purpose: []
